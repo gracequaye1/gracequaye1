@@ -8,7 +8,8 @@
 - 🌍 Passionate about Climate Justice & Tech for Women
 
 ## Projects
-- [Project 1](https://github.com/gracequaye1/Tech4Girls_Backend.git): Tech4Girls backend project focusing on Git, GitHub, and Linux commands.
+- [Project 1]([https://github.com/gracequaye1/Tech4Girls_Backend.git]
+- https://github.com/gracequaye1/Tech4Girls_Backend/tree/main/Bash_Logic_Operations: Tech4Girls backend project focusing on Git, GitHub,Linux commands and Bash Scripting.
 
 ## Skills
 - **Languages**: HTML, CSS, JavaScript
