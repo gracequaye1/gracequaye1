@@ -8,8 +8,9 @@
 - 🌍 Passionate about Climate Justice & Tech for Women
 
 ## Projects
-- [Project 1]([https://github.com/gracequaye1/Tech4Girls_Backend.git])
-- [Project 2]([https://github.com/gracequaye1/ATM_Machine])
+- [Project 1](https://github.com/gracequaye1/Tech4Girls_Backend)
+- [Project 2](https://github.com/gracequaye1/ATM_Machine)
+
 
 ## Skills
 - **Languages**: HTML, CSS, JavaScript
