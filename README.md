@@ -3,7 +3,7 @@
 
 - 🎓 Marketing & IT student(still studying)
 - 💼 Digital Marketer | Sales Assistant
-- 🌱 Currently learning backend development with HACSA.
+- 🌱 Certified in backend development with HACSA.
 - 📚 Certified in Digital Marketing (Soronko Academy)
 - 🌍 Passionate about Climate Justice & Tech for Women
 
