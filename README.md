@@ -13,5 +13,5 @@
 
 
 ## Skills
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML, CSS, JavaScript, Python
 - **Tools**: Git, WordPress, VS Code, Canva
