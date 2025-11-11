@@ -13,7 +13,8 @@
 ## 🔥 Featured Projects
 - [Night of Code & Vibes — Halloween Landing Page](https://codepen.io/gracequaye1/pen/JoGQzGy)  
 - [Tech4Girls Backend Project](https://github.com/gracequaye1/Tech4Girls_Backend)  
-- [ATM Machine Project](https://github.com/gracequaye1/ATM_Machine)  
+- [ATM Machine Project](https://github.com/gracequaye1/ATM_Machine)
+- Sharing my latest write-up on Coderlegion, check it out! https://coderlegion.com/7154/why-building-a-strong-tech-community-matters-in-2025
 
 ---
 
