@@ -1,33 +1,58 @@
-# 👋 Hello, I'm Grace Okailey Quaye — The Duchess of Hackers 🖤
+## Hi, I'm Grace Okailey Quaye  
+### aka *The Duchess of Hackers* 🖤
 
 [![CoderLegion Badge](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/DuchessCodes)
 
-- 🎓 Marketing & IT Student (still studying)  
-- 💼 Full-Stack Developer | Digital Marketer | Sales Assistant  
-- 🌱 Certified in Backend Development (HACSA)  
-- 📚 Certified in Digital Marketing (Soronko Academy)  
-- 🌍 Passionate about Climate Justice & Tech for Women  
+I'm a **Full-Stack Developer** and **Digital Marketer** with hands-on experience building web solutions and helping brands grow online.
+
+I am currently studying **Marketing and Information Technology** at **Accra Institute of Technology**, where I actively combine technical development with marketing strategy to build user-focused and business-driven solutions.
+
+I’m also independently learning **Ethical Hacking**, with a growing interest in cybersecurity and system security.
 
 ---
 
-## 🔥 Featured Projects
-- [Night of Code & Vibes — Halloween Landing Page](https://codepen.io/gracequaye1/pen/JoGQzGy)  
-- [Tech4Girls Backend Project](https://github.com/gracequaye1/Tech4Girls_Backend)  
-- [ATM Machine Project](https://github.com/gracequaye1/ATM_Machine)
-- Sharing my latest write-up on Coderlegion, check it out! https://coderlegion.com/7154/why-building-a-strong-tech-community-matters-in-2025
+###  Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
-## 💻 Skills
-- **Languages**: HTML, CSS, JavaScript, Python  
-- **Tools & Platforms**: Git, WordPress, VS Code, Canva
+###  What I Do
+- Build full-stack web applications  
+- Develop backend logic and APIs  
+- Apply digital marketing strategies to tech products  
+- Support small businesses with tech and marketing solutions  
 
 ---
 
-## ✨ About Me
-I’m **The Duchess of Hackers** — I love blending **tech, creativity, and impact**. I build projects that tell a story, solve problems, and inspire other women to code. Always experimenting, always learning, and always coding with style.  
+###  Currently Learning
+- Advanced backend development  
+- Database design and optimization  
+- Ethical hacking & cybersecurity fundamentals  
 
-- ### 🌐 Join Me on CoderLegion
+---
 
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/DuchessCodes) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/DuchessCodes)
-
+###  Connect With Me
+- GitHub: https://github.com/gracequaye1  
+- LinkedIn: https://www.linkedin.com/in/grace-okailey-quaye  
+- X (Twitter): https://x.com/DuchessCodes  
+- Instagram: https://www.instagram.com/the_duchess_of_hackers  
+- CoderLegion: https://coderlegion.com/user/DuchessCodes  
